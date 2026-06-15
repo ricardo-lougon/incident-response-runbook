@@ -71,7 +71,7 @@ H+72+  Erradicação, recuperação e relatório final
 1. **Abra uma ficha de registro:** [ficha-registro-incidente.md](templates/ficha-registro-incidente.md)
 2. **Classifique o incidente:** [00-classificacao-triagem.md](runbook/00-classificacao-triagem.md)
 3. **Execute a contenção:** [01-contencao-aws.md](runbook/01-contencao-aws.md)
-4. **Consulte o playbook específico** em `playbooks/` se disponível
+4. **Consulte o playbook específico** em [Playbooks](playbooks)
 5. **Não perca o prazo de 72h:** [04-notificacao-anpd.md](runbook/04-notificacao-anpd.md)
 
 ---
